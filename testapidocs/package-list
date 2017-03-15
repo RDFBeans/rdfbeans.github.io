@@ -1,0 +1,12 @@
+org.cyberborean.rdfbeans.datatype
+org.cyberborean.rdfbeans.test
+org.cyberborean.rdfbeans.test.entities
+org.cyberborean.rdfbeans.test.examples
+org.cyberborean.rdfbeans.test.examples.entities
+org.cyberborean.rdfbeans.test.foafexample
+org.cyberborean.rdfbeans.test.foafexample.entities
+org.cyberborean.rdfbeans.test.foafexample.entities.impl
+org.cyberborean.rdfbeans.test.inversions
+org.cyberborean.rdfbeans.test.proxy
+org.cyberborean.rdfbeans.test.rdfbeanmanager
+org.cyberborean.rdfbeans.test.reflect
