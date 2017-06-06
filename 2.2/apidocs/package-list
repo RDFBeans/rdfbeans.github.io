@@ -1,0 +1,7 @@
+org.cyberborean.rdfbeans
+org.cyberborean.rdfbeans.annotations
+org.cyberborean.rdfbeans.datatype
+org.cyberborean.rdfbeans.exceptions
+org.cyberborean.rdfbeans.proxy
+org.cyberborean.rdfbeans.reflect
+org.cyberborean.rdfbeans.util
